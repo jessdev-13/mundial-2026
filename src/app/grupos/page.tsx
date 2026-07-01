@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic"
 import { getAllMatches } from "@/lib/api-football"
 import { Match } from "@/types/football"
 
